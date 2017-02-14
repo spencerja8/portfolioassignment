@@ -1,0 +1,23 @@
+body {
+  background-color: #C3403A;
+}
+
+nav {
+  background-color: #840500;
+
+}
+
+a {
+  color: white;
+}
+
+.jumbotron {
+  background-color: white;
+  text-align: center;
+}
+
+.alert {
+  background-color: white;
+}
+
+
